@@ -1,64 +1,52 @@
-url: https://y7kim.github.io
+url: http://127.0.0.1:4000
 baseurl: /agency-jekyll-theme/
 
 # Site settings
-title: Awesome Title
-email: your-email@domain.com
+title: Benjamin Jablonowski Portfolio
+email: bjablonowski@hotmail.com
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
-  pic: 1
-  position: Lead Designer
+- name: Benjamin Jablonowski
+  pic: Benjamin
+  position: Bloc Web Development Bootcamp Student
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
-
-- name: Larry Parker
-  pic: 2
-  position: Lead Marketer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
+    - title: github
+      url: https://github.com/Lumbersaur
     - title: linkedin
-      url: #
+      url: https://www.linkedin.com/in/benjamin-jablonowski/
 
-- name: Diana Petersen
-  pic: 3
-  position: Lead Developer
+- name: Myself
+  pic: Lumberjack
+  position: Retired Lumberjack
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+    - title: github
+      url: https://github.com/Lumbersaur
+    - title: linkedin
+      url: https://www.linkedin.com/in/benjamin-jablonowski/
+
+- name: And I
+  pic: myCooking
+  position: Nutrition Nut
+  social:
+    - title: github
+      url: https://github.com/Lumbersaur
+    - title: linkedin
+      url: https://www.linkedin.com/in/benjamin-jablonowski/
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
   - title: github
     url: http://github.com/jekyll
+  - title: linkedin
+    url: https://www.linkedin.com/in/benjamin-jablonowski/
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: 225 Central Ave SW Apt. 1407
+  - line: Atlanta, GA 30303
 
 # Build settings
 markdown: kramdown
