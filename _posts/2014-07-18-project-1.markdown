@@ -1,15 +1,15 @@
 ---
-title: Dreams
-subtitle: Website Design
+title: Bloc Jams
+subtitle: Music Player
 layout: default
 modal-id: 1
-date: 2014-07-18
-img: dreams.png
-thumbnail: dreams-thumbnail.png
+date: 2017-03-18
+img: bloc.png
+thumbnail: bloc-thumbnail.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
+project-date: March 2017
+client: Bloc
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: As _simple_ to use as it is elegant, Bloc Jams delivers a no-nonsense path to the music you want to listen to, including mobile compatibility and a convenient album toggle built in so you can spend more time jamming and less time navigating.
 
 ---
