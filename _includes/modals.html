@@ -16,17 +16,29 @@
                             <hr class="star-primary">
                             <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
                             <p>{{ post.description }}</p>
+                            
+                            <h4>Problem</h4>
+                            <p>{{ post.problem }}</p>
+                            
+                            <h4>Solution</h4>
+                            <p>{{ post.solution }}</p>
+                            
+                            <h4>Results</h4>
+                            <p>{{ post.results }}</p>
+                            
+                            <h4>Conclusion</h4>
+                            <p>{{ post.conclusion }}</p>
                             <ul class="list-inline item-details">
                                 <li>Client:
-                                    <strong><a href="http://startbootstrap.com">{{ post.client }}</a>
+                                    <strong><a href="https://www.bloc.io/">{{ post.client }}</a>
                                     </strong>
                                 </li>
                                 <li>Date:
-                                    <strong><a href="http://startbootstrap.com">{{ post.project-date }}</a>
+                                    <strong>{{ post.project-date }}
                                     </strong>
                                 </li>
                                 <li>Service:
-                                    <strong><a href="http://startbootstrap.com">{{ post.category }}</a>
+                                    <strong>{{ post.category }}
                                     </strong>
                                 </li>
                             </ul>

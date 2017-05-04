@@ -10,6 +10,9 @@ alt: image-alt
 project-date: March 2017
 client: Bloc
 category: Web Development
-description: As _simple_ to use as it is elegant, Bloc Jams delivers a no-nonsense path to the music you want to listen to, including mobile compatibility and a convenient album toggle built in so you can spend more time jamming and less time navigating.
-
+description: As simple to use as it is elegant, Bloc Jams delivers a no-nonsense path to the music you want to listen to. Built with jQuery and Buzz music library, it includes mobile compatibility and a convenient album toggle built in so you can spend more time jamming and less time navigating. 
+problem: With many music services beginning to charge monthly fees, the remaining numbers of free music outlets is dwindling. In the age of instant gratification, many people wish for a song service that provides quality without requiring a large quantity of their time or money.
+solution: Bloc Jams provides unconditional and expedient access to the songs you want to hear. Navigation is a breeze with a comprehensive collection page, pointing the way to the album of your choosing.
+results: Delivering intuitize, instant navigation, album and audio toggle, as well as a slide bar for moving through the music, Bloc Jams comprehensively delivers on its promise of providing music without all the bother.
+conclusion: The community feedback has been largely positive, with suggestions for broadening the music library.
 ---

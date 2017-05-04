@@ -632,6 +632,15 @@ section h3.section-subheading {
     }
 }
 
+.col-sm-4 {
+    margin: auto;
+    float: none;
+}
+
+#portfolioModal1 .modal-content {
+    background-color: rgb(226,161,203);
+}
+
 .team-member {
     margin-bottom: 50px;
     text-align: center;
